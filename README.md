@@ -1,3 +1,4 @@
+theme: jekyll-theme-hacker
 # Welcome to Williamsburg :house: :statue_of_liberty:
 
 
