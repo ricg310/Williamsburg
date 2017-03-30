@@ -6,5 +6,5 @@
 ![williamsburg outline](https://cloud.githubusercontent.com/assets/25993143/24484196/f42f893a-14ca-11e7-9fcb-eec8c5c82d36.png)
 
 
-
+# These are some useful demographics and stats
 ![williamsburg demographics and statistics](https://cloud.githubusercontent.com/assets/25993143/24484174/d95372ca-14ca-11e7-9060-4397f808b88d.png)
