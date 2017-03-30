@@ -15,4 +15,4 @@
 ![biggest 311 complaints](https://cloud.githubusercontent.com/assets/25993143/24484537/b670d426-14cc-11e7-9cbb-9bdb1ce17848.png)
 
 ## Map of the location where the complaints occurred:
-
+![biggest 311 complaints map](https://cloud.githubusercontent.com/assets/25993143/24484640/4b10e9ea-14cd-11e7-80d0-aa0aa053349d.png)
