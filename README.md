@@ -1,4 +1,4 @@
-# Welcome to Williamsburg :house: :statue_of_liberty:
+# Welcome to Williamsburg 
 
 
 
@@ -9,7 +9,7 @@
 ## Demographics and Stats
 ![williamsburg demographics and statistics](https://cloud.githubusercontent.com/assets/25993143/24484174/d95372ca-14ca-11e7-9060-4397f808b88d.png)
 
-## The Top 10 License Plates that received parking tickets :car: :
+## The Top 10 License Plates that received parking tickets:
 ![top 10 most ticketed license plates](https://cloud.githubusercontent.com/assets/25993143/24484417/1d86c66c-14cc-11e7-8710-f7dd6edd4866.png)
 ## The Biggest 311 Complaints in Williamsburg:
 ![biggest 311 complaints](https://cloud.githubusercontent.com/assets/25993143/24484537/b670d426-14cc-11e7-9cbb-9bdb1ce17848.png)
